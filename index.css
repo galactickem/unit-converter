@@ -1,0 +1,43 @@
+
+
+body {
+  background: #1F2937;
+  font-family: 'Montserrat', sans-serif;
+  color: #FFFFFF;
+  text-align: center;
+  margin: 0;
+}
+
+h5 {
+  padding-top: 5px;
+}
+
+input {
+  height: 30px;
+
+}
+
+p {
+
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+
+  padding-bottom: 15px;
+
+  color: #D2D2D2;
+}
+
+.top-container {
+  position: relative;
+  background: linear-gradient(246.26deg, #585DFE 0%, #FB3796 100%);
+  padding-bottom: 25px;
+  padding-top: 2%;
+
+}
+
+.number {
+  font-size: 400%;
+  margin-top: 7px;
+  margin-bottom: 10px;
+}
